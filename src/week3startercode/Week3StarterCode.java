@@ -22,7 +22,7 @@ public class Week3StarterCode {
         System.out.println(s1.getFirstName() + " "+s1.getID());
         System.out.println("See you again!");
         System.out.println("hi i am in week 3 fundamental");
-        System.out.println("Welocome!"):
+        System.out.println("Welocome!");
     }
     
 }
